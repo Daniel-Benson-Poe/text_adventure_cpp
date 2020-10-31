@@ -1,0 +1,1 @@
+This repository contains a personal project to practice my recent dive into the C++ language. I will be converting a previous text adventure program that I created in Python to the C++ language.
